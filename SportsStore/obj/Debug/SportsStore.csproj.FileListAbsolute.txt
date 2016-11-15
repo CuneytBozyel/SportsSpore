@@ -1,0 +1,198 @@
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\ApplicationInsights.config
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\csc.exe
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\vbc.exe
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\VBCSCompiler.exe
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\SportsStore.dll.config
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\SportsStore.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\SportsStore.pdb
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Antlr3.Runtime.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\EntityFramework.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\EntityFramework.SqlServer.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.Web.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.WindowsServer.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.ApplicationInsights.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.Google.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Newtonsoft.Json.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Owin.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.Helpers.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.Mvc.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.Optimization.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.Razor.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.WebPages.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.WebPages.Razor.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\WebGrease.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.Web.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AI.WindowsServer.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.ApplicationInsights.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.Helpers.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.Mvc.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.Optimization.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.Razor.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.WebPages.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\System.Web.WebPages.Razor.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Antlr3.Runtime.pdb
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Newtonsoft.Json.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\EntityFramework.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\EntityFramework.SqlServer.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.Google.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\obj\Debug\SportsStore.pdb
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Ninject.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Ninject.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Castle.Core.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Moq.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Ninject.Web.Common.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Ninject.Web.Mvc.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\WebActivatorEx.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Castle.Core.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Moq.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Ninject.Web.Common.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\Ninject.Web.Mvc.xml
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\SportsStore.Domainn.dll
+c:\users\cuneyt.bozyel\documents\visual studio 2015\Projects\SportsStore\SportsStore\bin\SportsStore.Domainn.pdb
+C:\Users\cuneyt.bozyel\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\bin\PagedList.dll
+C:\Users\cuneyt.bozyel\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\bin\PagedList.Mvc.dll
+C:\Users\cuneyt.bozyel\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\bin\PagedList.xml
+C:\Users\cuneyt.bozyel\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\bin\PagedList.Mvc.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\ApplicationInsights.config
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\csc.exe
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\vbc.exe
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\SportsStore.dll.config
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\SportsStore.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\SportsStore.pdb
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Antlr3.Runtime.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Castle.Core.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\EntityFramework.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\EntityFramework.SqlServer.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.Web.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Moq.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Newtonsoft.Json.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Ninject.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Ninject.Web.Common.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Ninject.Web.Mvc.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Owin.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\PagedList.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\PagedList.Mvc.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\SportsStore.Domainn.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.Helpers.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.Mvc.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.Optimization.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.Razor.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.WebPages.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\WebActivatorEx.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\WebGrease.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\SportsStore.Domainn.pdb
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Castle.Core.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.Web.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Moq.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Ninject.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Ninject.Web.Common.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Ninject.Web.Mvc.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\PagedList.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\PagedList.Mvc.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.Helpers.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.Mvc.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.Optimization.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.Razor.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.WebPages.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Antlr3.Runtime.pdb
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Newtonsoft.Json.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\EntityFramework.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\EntityFramework.SqlServer.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\obj\Debug\SportsStore.dll
+C:\Users\cuneyt.bozyel\Documents\GitHub\SportsSpore\SportsStore\obj\Debug\SportsStore.pdb

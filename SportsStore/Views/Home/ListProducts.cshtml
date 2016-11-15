@@ -1,0 +1,31 @@
+﻿@model PagedList.IPagedList<SportsStore.Domainn.Entities.Product>
+@using PagedList.Mvc
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "ListProducts";
+}
+
+<h2>Sports Store</h2>
+
+
+<div class="well col-lg-4">
+
+    @foreach (var item in Model)
+    {
+        <h3>
+            <strong>
+                @Html.DisplayFor(modelItem => item.Name)
+            </strong>
+            <span class="pull-right label label-primary">
+                @Html.DisplayFor(modelItem => item.Price)
+            </span>
+        </h3>
+    }
+    <br />
+
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("ListProducts", new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+</div>
+
